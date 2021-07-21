@@ -1,0 +1,14 @@
+{
+  "name": "ejerc-mvc-1",
+  "version": "1.0.0",
+  "description": "Ejercitacion de MVC y rutas parametrizadas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliana Lezcano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
